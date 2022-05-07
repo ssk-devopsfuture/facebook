@@ -1,1 +1,2 @@
+Hello. Gonna update this file in UAT GUI.
 This is a sample text file
